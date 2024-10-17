@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Spring_Green">#00FA9A</color>
+    <color name="Medium_Spring_Green">#00FF7F</color>
+    <color name="Pale_Green">#98FB98</color>
+    <color name="Green_Back">#00e895</color>
+    <color name="blueblack">#000f0f</color>
+    <color name="bluewhite">#003c3c</color>#43b05c
+    <color name="verdin">#43b05c</color>
+</resources>

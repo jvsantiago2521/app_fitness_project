@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">MobHealth</string>
+    <string name="entrar">Entrar</string>
+    <string name="text_cadastro">Criar Conta</string>
+    <string name="title_cadastro">Cadastro</string>
+
+    <string name="nome_app">Recipe Book</string>
+
+    //crucifixo
+
+    <string name="crucifixoDescricao">
+        O exercício crucifixo na máquina é uma excelente opção para desenvolver os músculos do peitoral, proporcionando maior controle e estabilidade em comparação com os halteres.
+    </string>
+    <string name="crucifixoEtapas">
+        -Sente-se na máquina com as costas bem apoiadas no encosto e os pés firmemente plantados no chão.
+        \n-Ajuste a altura do assento para que suas mãos fiquem alinhadas com o nível do peito quando você segurar as alças.
+        \n-Ajuste as alças da máquina para que elas estejam na posição inicial desejada. Geralmente, isso significa que suas mãos estarão ligeiramente para trás do nível dos ombros.
+        \n-Segure as alças com os braços ligeiramente flexionados nos cotovelos e as palmas das mãos voltadas para frente.
+        \n-Inspire e, lentamente, mova as alças para a frente, juntando as mãos na frente do peito. Concentre-se em usar os músculos do peitoral para realizar o movimento.
+        \n-Expire e, lentamente, retorne as alças à posição inicial, mantendo o controle sobre o movimento e evitando que o peso volte rapidamente.
+
+    </string>
+
+    //extensora
+
+    <string name="extensoraDescricao">
+        O exercício de extensora é excelente para fortalecer os músculos do quadríceps, localizados na parte frontal da coxa.
+    </string>
+
+    <string name="extensoraEtapas">
+        -Sente-se na máquina de extensora com as costas bem apoiadas no encosto.
+        \n-Ajuste o assento para que seus joelhos fiquem alinhados com o eixo de rotação da máquina.
+        \n-Posicione suas pernas sob o rolo acolchoado, com o rolo posicionado logo acima dos tornozelos.
+        \n-Segure nas alças laterais da máquina para manter a estabilidade
+        \n-Inspire e, ao expirar, estenda as pernas lentamente, levantando o rolo acolchoado até que suas pernas estejam quase totalmente retas. Evite bloquear completamente os joelhos para prevenir lesões.
+        \n-Mantenha a contração por um segundo no topo do movimento.
+    </string>
+
+    //supinoreto
+
+    <string name="supinoretoDescricao">
+        O supino reto com barra é um exercício clássico e eficaz para desenvolver a musculatura do peitoral, ombros e tríceps.
+    </string>
+    <string name="supinoretoEtapas">
+        -Deite-se de costas em um banco reto com os pés firmemente apoiados no chão.
+        \n-Alinhe seus olhos diretamente abaixo da barra posicionada no rack.
+        \n-Segure a barra com as mãos um pouco mais afastadas que a largura dos ombros, com as palmas das mãos voltadas para frente.
+        \n-Certifique-se de que a barra esteja bem equilibrada e que suas mãos estejam igualmente distantes do centro da barra.
+        \n-Inspire profundamente e empurre a barra para cima, retirando-a do rack.
+        \n-Mova a barra para a posição inicial, diretamente acima do peito, com os cotovelos estendidos, mas sem travar completamente.
+        \n-Mantenha os cotovelos ligeiramente para dentro, evitando que se afastem muito do corpo.
+        \n-Expire e empurre a barra de volta para cima, retornando à posição inicial com os braços estendidos, mas sem travar completamente os cotovelos.
+        \n-Concentre-se em usar os músculos do peitoral para realizar o movimento, mantendo o controle da barra em todo o trajeto.
+    </string>
+
+    //remada
+
+    <string name="remadacurvadaDescricao">
+        A remada curvada com barra é um exercício eficaz para fortalecer os músculos das costas, especialmente os músculos latíssimo do dorso, trapézio, romboides e a parte posterior dos ombros.
+    </string>
+    <string name="remadacurvadaEtapas">
+        -Fique de pé com os pés afastados na largura dos ombros.
+        \n-Segure a barra com uma pegada pronada (palmas das mãos voltadas para baixo), com as mãos um pouco mais afastadas que a largura dos ombros.
+        \n-Flexione ligeiramente os joelhos e incline-se para a frente a partir dos quadris, mantendo as costas retas e o tronco quase paralelo ao chão.
+        \n-Mantenha a cabeça alinhada com a coluna e o olhar voltado para frente ou ligeiramente para baixo.
+        \n-A barra deve estar pendurada na frente de você com os braços totalmente estendidos.
+        \n-Inspire e puxe a barra em direção à parte inferior do abdômen, mantendo os cotovelos próximos ao corpo.
+        \n-Expire e abaixe a barra lentamente de volta à posição inicial, estendendo os braços completamente.
+        \n-Mantenha o controle do movimento durante a descida da barra.
+    </string>
+
+    //roscadireta
+
+    <string name="roscadiretaDescricao">
+        A rosca direta na polia é um excelente exercício para trabalhar os músculos do bíceps, proporcionando uma tensão constante durante todo o movimento.
+    </string>
+    <string name="roscadiretaEtapas">
+        -Ajuste a polia para a posição mais baixa.
+        \n-Anexe uma barra reta ou barra EZ ao cabo da polia.
+        \n-Fique de frente para a máquina, segurando a barra com uma pegada supinada (palmas das mãos voltadas para cima), com as mãos afastadas na largura dos ombros.
+        \n-Mantenha uma postura ereta, com os pés afastados na largura dos ombros e os joelhos ligeiramente flexionados.
+        \n-Mantenha os cotovelos próximos ao corpo durante todo o movimento.
+        \n-Puxe os ombros para trás e mantenha o peito erguido.
+        \n-Inspire e, lentamente, flexione os cotovelos, trazendo a barra em direção aos ombros.
+        \n-Concentre-se em contrair os músculos do bíceps durante a subida da barra.
+        \n-Mantenha os cotovelos fixos ao lado do corpo e evite balançar ou usar impulso.
+        \n-Expire e, lentamente, abaixe a barra de volta à posição inicial, estendendo completamente os braços.
+        \n-Controle o movimento durante a descida da barra, mantendo a tensão nos bíceps.
+
+    </string>
+
+    //supinodeclinadocomhalteres
+
+    <string name="supinodeclinadoDescricao">
+        O supino declinado com halteres é um excelente exercício para desenvolver a parte inferior do peitoral, além de trabalhar os deltoides anteriores e tríceps.
+    </string>
+    <string name="supinodeclinadoEtapas">
+        -Ajuste o banco para uma posição declinada, geralmente em um ângulo de 30 a 45 graus.
+        \n-Sente-se no banco com os pés firmemente fixos nos suportes ou no chão, dependendo do design do banco.
+        \n-Segure um halter em cada mão e deite-se no banco declinado, mantendo os halteres próximos ao peito.
+        \n-Posicione os halteres de modo que suas palmas estejam voltadas para frente e seus cotovelos estejam flexionados a 90 graus.
+        \n-Mantenha os halteres na altura do peito, com os braços alinhados e os cotovelos ligeiramente abaixo dos ombros.
+        \n-Inspire e, lentamente, empurre os halteres para cima e para frente, estendendo completamente os braços.
+        \n-No topo do movimento, os halteres devem estar diretamente acima do seu peito, mas sem tocar um no outro.
+        \n-Contraia os músculos do peito ao empurrar os halteres.
+        \n-Expire e, lentamente, abaixe os halteres de volta à posição inicial, controlando o movimento e mantendo a tensão nos músculos do peito.
+        \n-Mantenha os cotovelos ligeiramente flexionados ao descer os halteres para evitar sobrecarga nas articulações.
+
+    </string>
+
+    //elevacaolateral
+
+    <string name="elevacaolateralDescricao">
+        A elevação lateral com halteres é um exercício eficaz para fortalecer os músculos deltoides, especificamente a porção lateral (média) dos ombros.
+    </string>
+    <string name="elevacaolateralEtapas">
+        -Fique de pé com os pés afastados na largura dos ombros.
+        \n-Segure um halter em cada mão, com os braços estendidos ao lado do corpo e as palmas das mãos voltadas para dentro.
+        \n-Mantenha uma postura ereta, com a coluna alinhada e os ombros relaxados.
+        \n-Inspire e, lentamente, levante os halteres para os lados, mantendo uma leve flexão nos cotovelos. Os braços devem subir até que fiquem paralelos ao chão.
+        \n-Concentre-se em levantar os halteres usando os músculos do ombro, mantendo as palmas das mãos voltadas para baixo durante todo o movimento.
+        \n-Evite encolher os ombros ou usar impulso do tronco para levantar os pesos.
+        \n-No topo do movimento, os halteres devem estar na altura dos ombros e seus braços devem formar uma linha reta.
+        \n-Expire e, lentamente, abaixe os halteres de volta à posição inicial, controlando o movimento.
+        \n-Mantenha a tensão nos músculos do ombro durante a descida dos halteres.
+    </string>
+
+</resources>
